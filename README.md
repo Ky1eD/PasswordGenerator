@@ -1,4 +1,4 @@
-#Secure Password Generator
+# Secure Password Generator
 Password Generator Python Script
  
 <h2>Description</h2>
